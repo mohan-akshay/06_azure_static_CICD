@@ -1,0 +1,1 @@
+# 06_azure_static_CICD
