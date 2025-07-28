@@ -13,7 +13,6 @@ Host a modern static website using **Azure Static Web Apps** with **CI/CD from G
 - Azure Static Web Apps (Free Tier)
 - GitHub Actions (CI/CD)
 - Global Hosting via Azure CDN
-- HTTPS + Custom Domain (Optional)
 - Static Website Deployment
 
 ---
@@ -24,7 +23,6 @@ Host a modern static website using **Azure Static Web Apps** with **CI/CD from G
 - **GitHub Repository**
 - **GitHub Actions (CI/CD Pipeline)**
 - **Azure Portal**
-- *(Optional: Custom domain & DNS provider)*
 
 ---
 
